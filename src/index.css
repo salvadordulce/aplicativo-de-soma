@@ -1,0 +1,65 @@
+body {
+  font-family: "poetsen One", sans-serif;
+ display: flex;
+ align-self:center;
+ justify-content: center;
+ flex-direction: column;
+ height: 90vh;
+}
+
+h1{
+  text-align:center;
+  width:317px ;
+  height: 48px;
+  top: 106px;
+  left: 543px;
+  font-size: 32px;
+  margin-top: 50px;
+  align-self:center;
+  justify-content: center;
+}
+
+label{
+  font-weight: bold;
+  margin-top: 10px;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin-top: 10px;
+  justify-content: center;
+  align-self:center;
+}
+
+input{
+  padding: 13px;
+  height: 10px;
+  border-radius:8px;
+  font-weight: bold;
+  border: 1px solid;
+  margin-top: 10px;
+
+}
+
+button{
+  font-weight: bold;
+  background-color: #184680;
+  margin-top: 15px;
+  color: #fff;
+  border: none;
+  padding: 13px ;
+  border-radius:8px ;
+}
+
+.resultado{
+  margin-top: 10px;
+  width: 250px;
+  text-align: center ;
+  justify-content: center;
+  align-self:center;
+}
+h2{
+  text-align: center;
+  
+}
